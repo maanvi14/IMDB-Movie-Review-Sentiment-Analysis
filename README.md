@@ -1,5 +1,7 @@
 🎬 Sentiment Analysis on IMDB Movie Reviews
+
 📌 Project Overview
+
 This project focuses on performing Sentiment Analysis on the popular IMDB Movie Review Dataset using both traditional Machine Learning (Multinomial Naive Bayes) and Deep Learning (Simple RNN) approaches.
 The project also features a Streamlit web application for live text sentiment prediction.
 
